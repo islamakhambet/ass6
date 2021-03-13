@@ -1,4 +1,4 @@
 package task3;
 
-public class Home {
+public class Birds {
 }
